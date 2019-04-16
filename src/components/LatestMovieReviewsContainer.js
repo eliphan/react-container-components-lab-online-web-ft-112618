@@ -30,5 +30,6 @@ class LatestMovieReviewsContainer extends Component {
     </div>
     )
   }
-
 }
+
+export class LatestMovieReviewsContainer
